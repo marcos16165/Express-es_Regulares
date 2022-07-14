@@ -7,8 +7,9 @@ Em ciência da computação, expressões regulares fornecem uma maneira concisa 
 ## Exemplo 01: 
 
 Dada uma string de entrada, em um arquivo no formato txt. Retorna uma nova string, contendo todos os elementos estabelecidos no primeiro padrão(caracteres) e no segundo padrão(inteiros). Assim, com a entrada, “n4v3e5p4c1a1” presente no arquivo teste.txt, as strings de saída são.
- ['n', 'v', 'e', 'p', 'c', 'a', '']
-['', '4', '3', '5', '4', '1', '1']
+
+***['n', 'v', 'e', 'p', 'c', 'a', '']***
+*** ['', '4', '3', '5', '4', '1', '1']***
 
 Para fazer isso, usou-se o seguinte métodos
 ***Replace:*** Método usado para fazer a substituição de caracteres antigos, por novos.
