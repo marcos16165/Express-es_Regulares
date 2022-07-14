@@ -1,4 +1,4 @@
-#Expresões Regulares
+# Expresões Regulares 
 
 ## Introdução
 
@@ -16,5 +16,6 @@ Para fazer isso, usou-se o seguinte métodos
 ## Referências
 
 https://pt.wikipedia.org/wiki/Express%C3%A3o_regular
+
 https://www.programiz.com/python-programming/methods/string/replace
 
